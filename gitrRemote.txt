@@ -5,8 +5,7 @@
     git config --global user.email "azeemdeveloper27@gmail.com"
 4. git push -u origin master
    4.1. username? --> AzeemKhan27
-   4.2. password? --> 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
-   4.2. password? --> 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
+   4.2. password? --> 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
    
    
    dummy changes
